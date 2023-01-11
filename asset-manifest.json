@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/RedditClone/static/js/app.de706f41.chunk.js",
-    "app.js.map": "/RedditClone/static/js/app.de706f41.chunk.js.map",
+    "app.js": "/RedditClone/static/js/app.059c8eec.chunk.js",
+    "app.js.map": "/RedditClone/static/js/app.059c8eec.chunk.js.map",
     "runtime~app.js": "/RedditClone/static/js/runtime~app.3573f790.js",
     "runtime~app.js.map": "/RedditClone/static/js/runtime~app.3573f790.js.map",
     "static/js/2.dd607c2f.chunk.js": "/RedditClone/static/js/2.dd607c2f.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime~app.3573f790.js",
     "static/js/2.dd607c2f.chunk.js",
-    "static/js/app.de706f41.chunk.js"
+    "static/js/app.059c8eec.chunk.js"
   ]
 }
