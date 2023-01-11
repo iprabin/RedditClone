@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/RedditClone/static/js/app.80f9bec5.chunk.js",
-    "app.js.map": "/RedditClone/static/js/app.80f9bec5.chunk.js.map",
+    "app.js": "/RedditClone/static/js/app.590d5993.chunk.js",
+    "app.js.map": "/RedditClone/static/js/app.590d5993.chunk.js.map",
     "runtime~app.js": "/RedditClone/static/js/runtime~app.3573f790.js",
     "runtime~app.js.map": "/RedditClone/static/js/runtime~app.3573f790.js.map",
-    "static/js/2.dd607c2f.chunk.js": "/RedditClone/static/js/2.dd607c2f.chunk.js",
-    "static/js/2.dd607c2f.chunk.js.map": "/RedditClone/static/js/2.dd607c2f.chunk.js.map",
+    "static/js/2.6abc1b23.chunk.js": "/RedditClone/static/js/2.6abc1b23.chunk.js",
+    "static/js/2.6abc1b23.chunk.js.map": "/RedditClone/static/js/2.6abc1b23.chunk.js.map",
     "fonts/AntDesign.ttf": "/RedditClone/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/RedditClone/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/RedditClone/./fonts/Feather.ttf",
@@ -24,11 +24,11 @@
     "index.html": "/RedditClone/index.html",
     "manifest.json": "/RedditClone/manifest.json",
     "serve.json": "/RedditClone/serve.json",
-    "static/js/2.dd607c2f.chunk.js.LICENSE.txt": "/RedditClone/static/js/2.dd607c2f.chunk.js.LICENSE.txt"
+    "static/js/2.6abc1b23.chunk.js.LICENSE.txt": "/RedditClone/static/js/2.6abc1b23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.3573f790.js",
-    "static/js/2.dd607c2f.chunk.js",
-    "static/js/app.80f9bec5.chunk.js"
+    "static/js/2.6abc1b23.chunk.js",
+    "static/js/app.590d5993.chunk.js"
   ]
 }
