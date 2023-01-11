@@ -13,8 +13,8 @@
 
 ### Home
 
-<img src="https://raw.githubusercontent.com/iprabin/RedditClone/main/assets/home.png" alt="screenshot of the home page" height=200/>
+<img src="https://raw.githubusercontent.com/iprabin/RedditClone/main/assets/home.jpg" alt="screenshot of the home page" height=200/>
 
 ### Comments
 
-<img src="https://raw.githubusercontent.com/iprabin/RedditClone/main/assets/comments.png" height=400 alt="screenshot of the detail page" />
+<img src="https://raw.githubusercontent.com/iprabin/RedditClone/main/assets/comments.jpg" height=400 alt="screenshot of the detail page" />
