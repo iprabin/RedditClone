@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/RedditClone/static/js/app.de706f41.chunk.js",
+    "app.js.map": "/RedditClone/static/js/app.de706f41.chunk.js.map",
+    "runtime~app.js": "/RedditClone/static/js/runtime~app.3573f790.js",
+    "runtime~app.js.map": "/RedditClone/static/js/runtime~app.3573f790.js.map",
+    "static/js/2.dd607c2f.chunk.js": "/RedditClone/static/js/2.dd607c2f.chunk.js",
+    "static/js/2.dd607c2f.chunk.js.map": "/RedditClone/static/js/2.dd607c2f.chunk.js.map",
+    "fonts/AntDesign.ttf": "/RedditClone/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/RedditClone/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/RedditClone/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/RedditClone/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/RedditClone/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/RedditClone/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/RedditClone/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/RedditClone/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/RedditClone/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/RedditClone/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/RedditClone/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/RedditClone/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/RedditClone/favicon-16.png",
+    "favicon-32.png": "/RedditClone/favicon-32.png",
+    "favicon.ico": "/RedditClone/favicon.ico",
+    "index.html": "/RedditClone/index.html",
+    "manifest.json": "/RedditClone/manifest.json",
+    "serve.json": "/RedditClone/serve.json",
+    "static/js/2.dd607c2f.chunk.js.LICENSE.txt": "/RedditClone/static/js/2.dd607c2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3573f790.js",
+    "static/js/2.dd607c2f.chunk.js",
+    "static/js/app.de706f41.chunk.js"
+  ]
+}
