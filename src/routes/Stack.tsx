@@ -6,7 +6,7 @@ import { RootStackParamList } from "../types";
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 const linking = {
-  prefixes: ["http://localhost:19006/"],
+  prefixes: ["https://iprabin.github.io/RedditClone/"],
   config: {
     screens: {
       Home: "",
